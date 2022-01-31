@@ -1,0 +1,16 @@
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ExamTinkoff.exe
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ExamTinkoff.deps.json
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ExamTinkoff.runtimeconfig.json
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ExamTinkoff.runtimeconfig.dev.json
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ExamTinkoff.dll
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ref\ExamTinkoff.dll
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\bin\Debug\net5.0\ExamTinkoff.pdb
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.csproj.AssemblyReference.cache
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.AssemblyInfoInputs.cache
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.AssemblyInfo.cs
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.csproj.CoreCompileInputs.cache
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.dll
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ref\ExamTinkoff.dll
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.pdb
+C:\Users\aafil\source\repos\ExamTinkoff\ExamTinkoff\obj\Debug\net5.0\ExamTinkoff.genruntimeconfig.cache
